@@ -41,5 +41,6 @@ else:
     mio_libretto.append(voto_1)
     mio_libretto.append(voto_2)
 
-print("Media voti: ", mio_libretto.media())
+print("Media dei voti: ", mio_libretto.media())
+
 
